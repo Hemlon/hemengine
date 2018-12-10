@@ -9,7 +9,7 @@ var Engine = Matter.Engine,
 
 var keys = {};
 var letters = {};
-var mouseClicked = {}
+var mouseClicked = {};
 var showCollisions = false;
 
 var delayObject = function(delay)
